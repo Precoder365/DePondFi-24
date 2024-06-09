@@ -1,3 +1,6 @@
 /Images/*
 /Keypoints/*
 /Preprocessed_Images/*
+
+__pycache__/
+venv/
