@@ -1,0 +1,1 @@
+Place keypoints training data (imagename.txt) here.
