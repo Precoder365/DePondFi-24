@@ -2,12 +2,14 @@ import os
 import random
 import shutil
 
-data_path = "Images/"
+data_path = "Preprocessed_Images/"
 keypoints_path = "Keypoints/"
 
+output_data_path = "Images/"
+
 # Path to destination folders
-train_images_folder = os.path.join(data_path, 'train')
-test_images_folder = os.path.join(data_path, 'test')
+train_images_folder = os.path.join(output_data_path, 'train')
+test_images_folder = os.path.join(output_data_path, 'test')
 train_keypoints_folder = os.path.join(keypoints_path, 'train')
 test_keypoints_folder = os.path.join(keypoints_path, 'test')
 
