@@ -1,6 +1,12 @@
 /Images/*
 /Keypoints/*
 /Preprocessed_Images/*
+/data/*
+
+/DePondFi'24_Train/*
+/DePondFi'24-Test-Phase-I/*
 
 __pycache__/
 venv/
+
+*.zip
