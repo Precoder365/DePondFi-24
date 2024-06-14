@@ -3,3 +3,7 @@ opencv-python
 natsort
 scikit-image
 ultralytics
+matplotlib
+pillow
+tqdm
+pyyaml

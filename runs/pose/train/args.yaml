@@ -1,7 +1,7 @@
 task: pose
 mode: train
 model: yolov8n-pose.pt
-data: config.yaml
+data: data.yaml
 epochs: 1
 time: null
 patience: 100
