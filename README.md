@@ -37,6 +37,9 @@ Load data into gdrive
 Clone repo
 Run on google colab DepondFi'24.ipynb
 
+Inference Time:
+==============================
+1.208hrs; Specifications - Python-3.10.12 torch-2.3.0+cu121 CUDA:0 (Tesla T4, 15102MiB)
 
 
 <i>Note: The dataset is not included in this repository as it is not intended for public sharing.</i>
