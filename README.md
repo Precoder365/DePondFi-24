@@ -31,5 +31,13 @@ Visibility: Only fish where at least 75% of the structure was visible were inclu
 Size: Very small fish were excluded.
 Clarity: Fish that were not clearly visible due to poor image quality or unfavorable conditions were excluded.
 
-Note: The dataset is not included in this repository as it is not intended for public sharing.
+Quick start:
+==============================
+Load data into gdrive
+Clone repo
+Run on google colab DepondFi'24.ipynb
+
+
+
+<i>Note: The dataset is not included in this repository as it is not intended for public sharing.</i>
 
