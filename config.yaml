@@ -1,0 +1,19 @@
+# Data
+path: C:/DEVELOPMENT/DePondFi-24/data
+train: images/train  
+val: images/val  
+
+# Keypoints
+kpt_shape: [9, 2]  # [number of keypoints, number of dim]
+
+# Classes
+names:
+  0: Mouth
+  1: Eye
+  2: Top fin
+  3: Fish center
+  4: Bottom center
+  5: start point tail
+  6: top outline tail
+  7: mid outline tail
+  8: bottom outline tail

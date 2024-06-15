@@ -1,0 +1,3 @@
+{names: [Mouth, Eye, Top fin, Fish center, Bottom center, start point tail, top outline
+      tail, mid outline tail, bottom outline tail], nc: 9, test: test, train: train,
+  val: valid}
