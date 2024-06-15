@@ -1,17 +1,3 @@
-kpt_shape:
-- 9
-- 2
-names:
-- mouth
-- eye
-- top_fin
-- fish_center
-- bottom_center
-- start_point_tail
-- top_outline_tail
-- mid_outline_tail
-- bottom_outline_tail
-nc: 9
-path: C:\DEVELOPMENT\DePondFi-24\data
-train: images/train
-val: images/val
+{names: [Mouth, Eye, Top fin, Fish center, Bottom center, start point tail, top outline
+      tail, mid outline tail, bottom outline tail], nc: 9, test: test, train: train,
+  val: valid}
